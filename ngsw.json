@@ -10,7 +10,7 @@
         "/PWCat/favicon.ico",
         "/PWCat/index.html",
         "/PWCat/inline.318b50c57b4eba3d437b.bundle.js",
-        "/PWCat/main.d66d5c27209e08395d43.bundle.js",
+        "/PWCat/main.86d15dfbdf078b18b36a.bundle.js",
         "/PWCat/polyfills.95f523ba519ac2af484d.bundle.js",
         "/PWCat/styles.03b5f5f64d9c4bed131d.bundle.css"
       ],
@@ -21,16 +21,18 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/cataas\\.com\\/.*"
+      ]
     }
   ],
   "dataGroups": [],
   "hashTable": {
     "/PWCat/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "/PWCat/main.d66d5c27209e08395d43.bundle.js": "927e0bb98148e1a84096ea9c8745c72f39f1bc69",
+    "/PWCat/main.86d15dfbdf078b18b36a.bundle.js": "390a432c4134fc6b4b333a329fbbc6e6d44b9a1b",
     "/PWCat/polyfills.95f523ba519ac2af484d.bundle.js": "deb3bb32039edd76a8f1c0a02d1e98148d8f03f7",
     "/PWCat/styles.03b5f5f64d9c4bed131d.bundle.css": "2d54a334bf71713644c3c2f6aeed7da1ab2a647c",
     "/PWCat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/PWCat/index.html": "59b5057ea99bd55acab06fb5f182b64ccd4e1550"
+    "/PWCat/index.html": "f6bf08d7b88f905b28ae113d55b216552fbe2927"
   }
 }
